@@ -1,0 +1,15 @@
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\bin\Debug\net6.0\Calculadora de IMC.exe
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\bin\Debug\net6.0\Calculadora de IMC.deps.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\bin\Debug\net6.0\Calculadora de IMC.runtimeconfig.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\bin\Debug\net6.0\Calculadora de IMC.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\bin\Debug\net6.0\Calculadora de IMC.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\Calculadora de IMC.csproj.AssemblyReference.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\Calculadora de IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\Calculadora de IMC.AssemblyInfoInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\Calculadora de IMC.AssemblyInfo.cs
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\Calculadora de IMC.csproj.CoreCompileInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\Calculadora de IMC.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\refint\Calculadora de IMC.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\Calculadora de IMC.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\Calculadora de IMC.genruntimeconfig.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Calculadora de IMC\Calculadora de IMC\obj\Debug\net6.0\ref\Calculadora de IMC.dll
